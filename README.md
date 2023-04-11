@@ -54,7 +54,7 @@ The screenshots below are taken on a android emulator.
 
 | 7                                                        | 8                                                               |
 | -------------------------------------------------------- | --------------------------------------------------------------- |
-| <img src="screenshots/dashboard.screen.png" width="300"> | <img src="screenshots/activity_tracker_screen.png" width="300"> |
+| <img src="screenshots/dashboard_screen.png" width="300"> | <img src="screenshots/activity_tracker_screen.png" width="300"> |
 
 # ✨ Requirements
 
